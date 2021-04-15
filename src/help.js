@@ -2,10 +2,10 @@ const //database
 	return `
 ╔══✪〘 INFO 〙✪══
 ║
-╠➥ 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓
-╠➥ *3.0*
-╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗𝐷𝐴𝑅𝐾⃖  ☔
-╠➥ *wa.me/+5522996215481*
+╠➥ TRETAS WORLD BOT
+╠➥ 
+╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗Jack Frost/Jiraya  ☔
+╠➥
 ╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ╠══✪〘 NOVIDADES 〙✪══
@@ -16,7 +16,7 @@ const //database
 ║4 *${prefix}gay [@]*
 ║5 *${prefix}gbin [premium]*
 ║5 *${prefix}pack [premium]*
-║6 *${prefix}destrava [premium]*
+║6 *${prexes}destrava [premium]*
 ║7 *${prefix}gpessoa [premium]*
 ║8 *${prefix}wame*
 ║9 *${prefix}spamcall*
@@ -55,7 +55,7 @@ const //database
 ║36 *${prefix}limpar*
 ║37 *${prefix}bc [ *texto* ]*
 ║38 *${prefix}bemvindo [1/0]*
-║39 *${prefix}clonar [@]*
+ 39.  ( Tem nada aqui não, ta em shook ? ]
 ║40 *${prefix}help1*
 ║41 *${prefix}dono*
 ║42 *${prefix}owner*
@@ -175,16 +175,16 @@ const //database
 ║
 ╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
 ║
-║ *NOME: 𝐷𝐴𝑅𝐾⃖  ☔*
-║ *INSTA: th.darkys*
-║ *WPP: wa.me/+5521997123716*
-║ *YOUTUBE: https://bit.ly/3qAjeNz*
+║ *NOME: Jack frost ❄️
+
+║ ZORO SOLA !!!
+║
 ║
 ║  *"Peita ou respeita 🐊🚩*
 ║  *"kibadores, vão se fuder"*
 ║
 ║
-╚═〘 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓 〙`
+╚═〘 Tretas World [ NOVA ERA 〙`
 }
 
 //Online.database
