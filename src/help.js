@@ -187,5 +187,8 @@ const //database
 ╚═〘 Tretas World [ NOVA ERA 〙`
 }
 
+
 //Online.database
+
+exports.help = help
 
